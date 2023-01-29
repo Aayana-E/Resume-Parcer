@@ -1,4 +1,4 @@
-
+![My Image](images/Anna_Logo_Inivs.png)
 
 <h1> Resume Parcer by Aayana Evanson </h1>
 
@@ -19,4 +19,6 @@ You are then able to select a file to upload.
 Once the file is uploaded it will be added to the resume list and you can search for your desired skill and or name.
 
 Have fun parsing :)
+
+
 
