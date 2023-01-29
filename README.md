@@ -1,6 +1,7 @@
-![My Image](images/Anna_Logo_Inivs.png)
-
-<h1> Resume Parcer by Aayana Evanson </h1>
+<p align="center" >
+  <img src="images/Anna_Logo_Inivs_white.png" width="400" height="400" />
+</p>
+<h1 align ="center"> Resume Parcer by Aayana Evanson </h1>
 
 This is a resume parcer that accepts csv files. 
 An example csv file can me seen in the files folder.
@@ -18,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 You are then able to select a file to upload. 
 Once the file is uploaded it will be added to the resume list and you can search for your desired skill and or name.
 
-Have fun parsing :)
+Have fun parsing :smile:
 
 
 
