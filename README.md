@@ -8,7 +8,7 @@ An example csv file can me seen in the files folder.
 
 <h2>Getting Started with Resume Parser in React</h2>
 
-##Run
+<h3>Run</h3>
 
 To run this program use the command bellow in the file terminal
 
