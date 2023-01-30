@@ -7,6 +7,7 @@ import JSONDATA from './Applicants2.json';
 import { useState } from 'react';
 import { calculateNewValue } from '@testing-library/user-event/dist/utils';
 import csv from 'csvtojson';
+import logo from "./images/Anna_Logo_Inivs.png";
 
 
 
@@ -95,6 +96,8 @@ function fileName (){
 
 return (
   <div className="App">
+    
+    <img className='logo_img' src={logo} width="500" height="400" />
     <h1> Resume Parser</h1>
     <div className='chooseFile'>
       <label for="file-upload" className='file_upload_label'>
@@ -154,6 +157,7 @@ return (
       </tbody>
                 
       </table>
+      <br></br><br></br>
     </div>
   </div>
 );
